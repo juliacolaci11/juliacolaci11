@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ ANALYZING AND PROCESSING DATA since: 2024<br>📚 I'm currently learning: DATA SCIENCE <br>🎯 Goals: Continue learning and get my first job.<br>🎲 Fun fact: Fueled by mate 🧉 and code</p>
+<p align="left">✨ ANALYZING AND PROCESSING DATA since: 2024<br>📚 I'm currently learning: DATA SCIENCE <br>🎯 Goals: Continue learning and get my first job.<br>🎲 Fun fact: Fueled by té 🍵 and code</p>
 
 ###
 
